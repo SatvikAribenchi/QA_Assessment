@@ -1,5 +1,7 @@
 # Software QA Assessment
 
+## Steps to execute the application
+
 - Clone the repository
 
 - Make sure that `node.js` and `npm` are installed, by running the below commands:
