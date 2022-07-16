@@ -24,7 +24,7 @@ public class assinment {
 		driver = new ChromeDriver();
 		//launching the url or Wiki link
 		try {
-		driver.get("https://www.riproviderportal.org/hcp/provider/Home/tabid/135/Default.aspx");
+		driver.get("https://en.wikipedia.org/wiki/Climate");
 		} catch (Exception e) {
 	    	   
 	    	   
